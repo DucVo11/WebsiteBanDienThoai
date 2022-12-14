@@ -1,0 +1,8 @@
+Địa chỉ trang khách hàng:
+	http://localhost/N3STORE/
+Địa chỉ trang admin: 
+	http://localhost/N3STORE/admin/login
+
+Thông tin đăng nhập ADMIN
+E-Mail Address: N3store999@gmail.com
+Mật khẩu: 1212123
